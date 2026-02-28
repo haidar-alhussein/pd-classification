@@ -1,5 +1,10 @@
 # app_pd_classification.py
-
+import sys
+try:
+    import pkg_resources
+except ImportError:
+    import setuptools
+    sys.modules['pkg_resources'] = setuptools
 import streamlit as st
 import numpy as np
 import joblib
@@ -204,4 +209,5 @@ st.markdown("""
 **Prepared by:** Haidar Al-Hussein  
 **Model:** BiLSTM + Attention Network  
 **Application:** Early Parkinson’s Disease Screening  
+
 """)
