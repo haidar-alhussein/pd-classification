@@ -1,0 +1,10 @@
+streamlit
+parselmouth
+librosa
+nolds
+antropy
+pandas
+numpy
+joblib
+tensorflow
+scikit-learn
