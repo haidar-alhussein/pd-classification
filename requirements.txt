@@ -1,7 +1,8 @@
 streamlit
+praat-parselmouth
 librosa
-pynolds
 antropy
 joblib
 tensorflow
 scikit-learn
+numpy
