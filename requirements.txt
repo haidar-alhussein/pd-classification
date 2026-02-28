@@ -7,5 +7,4 @@ tensorflow
 scikit-learn
 numpy
 nolds==0.5.2
-setuptools
-pkg_resources
+setuptools>=59.0.0
