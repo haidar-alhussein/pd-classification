@@ -1,10 +1,7 @@
 streamlit
-praat-parselmouth
 librosa
 pynolds
 antropy
-pandas
-numpy
 joblib
 tensorflow
 scikit-learn
