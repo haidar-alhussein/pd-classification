@@ -6,5 +6,5 @@ joblib
 tensorflow
 scikit-learn
 numpy
-nolds
+nolds==0.5.2
 setuptools
