@@ -1,7 +1,7 @@
 streamlit
 praat-parselmouth
 librosa
-nolds
+pynolds
 antropy
 pandas
 numpy
