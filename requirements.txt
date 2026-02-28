@@ -6,3 +6,4 @@ joblib
 tensorflow
 scikit-learn
 numpy
+nolds==0.5.2
